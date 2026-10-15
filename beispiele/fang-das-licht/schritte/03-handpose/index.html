@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Schritt 3 – Steuerung mit ml5 handPose</title>
+  <link rel="stylesheet" href="../../spiel/spiel.css">
+</head>
+<body>
+  <h1>Schritt 3: Fang das Licht (Hand-Tracking mit ml5)</h1>
+  <div class="wrap">
+    <div id="game-holder"></div>
+    <div class="panel">
+      Fertiges Modell, kein Training nötig. Der Spieler folgt deiner Hand links/rechts.
+      <br><br>
+      <button id="hand-start">Kamera + Hand-Modell starten</button>
+      <div id="hand-container"></div>
+      <div id="status">Bereit.</div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/p5@1.9.4/lib/p5.min.js"></script>
+  <script src="https://unpkg.com/ml5@1/dist/ml5.min.js"></script>
+  <script src="../../spiel/spiel-kern.js"></script>
+  <script src="steuerung.js"></script>
+</body>
+</html>

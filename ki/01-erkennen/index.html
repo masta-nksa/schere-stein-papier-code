@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lektion 2, Schritt 2 – Handzeichen erkennen</title>
+  <link rel="stylesheet" href="../gemeinsam/stil.css">
+</head>
+<body>
+  <h1>Schritt 2: Handzeichen erkennen und gegen den Computer spielen</h1>
+  <div class="wrap">
+    <div class="karte">
+      <h2>1. Modell und Kamera</h2>
+      Modell-Link aus Teachable Machine (endet auf <code>/</code>):
+      <input id="modell-url" type="text" placeholder="https://teachablemachine.withgoogle.com/models/XXXX/">
+      <button id="start">Kamera + Modell starten</button>
+      <div id="kamera"></div>
+      <div id="erkannt" class="status">Noch nicht gestartet.</div>
+      <div id="balken"></div>
+    </div>
+
+    <div class="karte breit">
+      <h2>2. Ich gegen den Computer</h2>
+      <div id="spielfeld"></div>
+      <button id="runde" disabled>Runde starten</button>
+      <button id="nullen" disabled>Punkte auf 0</button>
+      <div id="meldung" class="status">Starte zuerst Kamera und Modell.</div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/p5@1.9.4/lib/p5.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.3.1/dist/tf.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@0.8/dist/teachablemachine-image.min.js"></script>
+  <script src="../gemeinsam/logik.js"></script>
+  <script src="../gemeinsam/erkennung.js"></script>
+  <script src="../gemeinsam/anzeige.js"></script>
+  <script src="runde.js"></script>
+  <script src="spiel.js"></script>
+</body>
+</html>

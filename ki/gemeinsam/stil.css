@@ -1,0 +1,22 @@
+body { font-family: system-ui, sans-serif; margin: 16px; color: #222; background: #fafafa; }
+h1 { font-size: 1.4rem; margin: 0 0 12px; }
+h2 { font-size: 1.05rem; margin: 0 0 8px; }
+.wrap { display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; }
+.karte { background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 12px; }
+.karte.breit { flex: 1 1 520px; }
+input[type=text] { width: 100%; box-sizing: border-box; padding: 6px; margin: 6px 0; }
+button { padding: 8px 14px; margin: 4px 4px 4px 0; font-size: 1rem; cursor: pointer; }
+button:disabled { cursor: not-allowed; }
+.status { margin-top: 8px; min-height: 1.4em; }
+.fehler { color: #b00020; }
+#kamera { width: 200px; height: 200px; background: #eee; }
+.balken { display: flex; align-items: center; gap: 6px; margin: 2px 0; font-size: 0.9rem; }
+.balken .name { width: 60px; }
+.balken .spur { flex: 1; height: 12px; background: #eee; border-radius: 6px; overflow: hidden; }
+.balken .fuell { height: 100%; background: #3b82f6; width: 0; }
+#log { font-family: ui-monospace, Consolas, monospace; font-size: 0.85rem; background: #111; color: #ddd;
+       height: 220px; overflow-y: auto; padding: 8px; border-radius: 6px; white-space: pre-wrap; }
+#log .ein { color: #7dd3fc; }
+#log .aus { color: #fcd34d; }
+#log .unbekannt { color: #888; }
+#log .info { color: #aaa; font-style: italic; }

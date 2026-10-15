@@ -1,0 +1,12 @@
+body { font-family: system-ui, sans-serif; margin: 0; padding: 16px; background: #14161c; color: #e8e8ee; }
+h1 { font-size: 20px; margin: 0 0 12px; }
+a { color: #7cb7ff; }
+code { background: #2a2f3d; padding: 1px 5px; border-radius: 4px; }
+.wrap { display: flex; gap: 16px; flex-wrap: wrap; align-items: flex-start; }
+.panel { background: #1e212b; border-radius: 10px; padding: 12px; min-width: 260px; max-width: 340px; font-size: 14px; }
+.panel input { width: 100%; box-sizing: border-box; padding: 6px; margin: 6px 0; }
+.panel button { padding: 6px 10px; border: 0; border-radius: 6px; background: #22c55e; color: #05210f; cursor: pointer; }
+#status { font-size: 13px; color: #9aa3b8; margin-top: 8px; min-height: 36px; }
+canvas.p5Canvas { border-radius: 10px; max-width: 100%; height: auto !important; }
+#webcam-container canvas { width: 160px; height: 160px; border-radius: 8px; margin-top: 8px; }
+#hand-container video { border-radius: 8px; margin-top: 8px; transform: scaleX(-1); }

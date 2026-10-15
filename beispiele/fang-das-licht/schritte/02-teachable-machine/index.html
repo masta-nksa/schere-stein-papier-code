@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Schritt 2 – Steuerung mit Teachable Machine</title>
+  <link rel="stylesheet" href="../../spiel/spiel.css">
+</head>
+<body>
+  <h1>Schritt 2: Fang das Licht (Teachable Machine)</h1>
+  <div class="wrap">
+    <div id="game-holder"></div>
+    <div class="panel">
+      Bildmodell mit 3 Klassen, z. B. <b>links</b>, <b>rechts</b>, <b>nichts</b>.
+      Modell-Link einfügen (endet auf <code>/</code>):
+      <input id="tm-url" placeholder="https://teachablemachine.withgoogle.com/models/XXXX/">
+      <button id="tm-start">Kamera + Modell starten</button>
+      <div id="webcam-container"></div>
+      <div id="status">Bereit.</div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/p5@1.9.4/lib/p5.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.3.1/dist/tf.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@0.8/dist/teachablemachine-image.min.js"></script>
+  <script src="../../spiel/spiel-kern.js"></script>
+  <script src="steuerung.js"></script>
+</body>
+</html>

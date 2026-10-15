@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Schritt 4 – USB-Controller (micro:bit oder ESP8266)</title>
+  <link rel="stylesheet" href="../../spiel/spiel.css">
+</head>
+<body>
+  <h1>Schritt 4: Fang das Licht (USB-Controller)</h1>
+  <div class="wrap">
+    <div id="game-holder"></div>
+    <div class="panel">
+      micro:bit (<code>microbit_controller.py</code>) oder ESP8266 (<code>esp8266_controller/</code>)
+      per USB anstecken. Nur in Chrome oder Edge.
+      <br><br>
+      <button id="esp-connect">Mit Controller verbinden</button>
+      <div id="status">Bereit.</div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/p5@1.9.4/lib/p5.min.js"></script>
+  <script src="../../spiel/spiel-kern.js"></script>
+  <script src="steuerung.js"></script>
+</body>
+</html>
