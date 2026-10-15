@@ -1,5 +1,5 @@
 // Spiellogik und Protokoll, ohne Kamera und ohne Anzeige.
-// Wird von beiden Seiten (01-erkennen und 02-microbit) benutzt und lässt sich mit Node testen (ki/test/).
+// Wird von beiden Seiten (01-erkennen und 02-microbit) benutzt. Die Tests dazu liegen im Material-Repo (ki/test/).
 
 // Kodierung wie auf dem micro:bit: 0 = Stein, 1 = Papier, 2 = Schere
 const NAMEN = ['Stein', 'Papier', 'Schere'];
