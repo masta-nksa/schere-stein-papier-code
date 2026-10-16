@@ -25,9 +25,14 @@ Du brauchst Python (ab 3.10) und VS Code. Installiere einmal im Terminal von VS 
 python -m pip install pygame-ce
 ```
 
-Die Programme liegen in deinem Arbeitsordner unter `beispiele/sternenfaenger/schritte/`
-(oder auf [GitHub](https://github.com/masta-nksa/schere-stein-papier-code/tree/main/beispiele/sternenfaenger/schritte)).
-Öffne im Terminal diesen Ordner und starte ein Programm:
+Die Programme liegen an zwei Orten, du kannst den nehmen, der dir lieber ist:
+
+- in eurem **Team-Repo** (und in der [Spielvorlage](https://github.com/masta-nksa/spiel-vorlage/tree/main/tutorial)) im Ordner `tutorial/`.
+  Starten im Hauptordner des Repos mit `python tutorial/schritt1_fenster.py`.
+- in deinem **Arbeitsordner** unter `beispiele/sternenfaenger/schritte/`
+  (oder auf [GitHub](https://github.com/masta-nksa/schere-stein-papier-code/tree/main/beispiele/sternenfaenger/schritte)).
+
+Im Arbeitsordner öffnest du im Terminal den Ordner und startest ein Programm:
 
 ```bash
 cd beispiele/sternenfaenger/schritte
