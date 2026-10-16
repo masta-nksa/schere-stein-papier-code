@@ -1,4 +1,4 @@
-# Lektion 2, Schritt 3: Schere-Stein-Papier gegen den micro:bit, dein Handzeichen kommt vom Browser (VORLAGE)
+# Etappe 2, Schritt 3: Schere-Stein-Papier gegen den micro:bit, dein Handzeichen kommt vom Browser (VORLAGE)
 # Du schreibst die Funktion runde_spielen(). Arbeite die TODOs der Reihe nach ab und lade nach jedem Teil
 # das Programm auf den micro:bit. Alles andere (USB, Protokoll, Lesen der Antwort) ist schon fertig.
 # Hängst du fest? Die Lösung ist 06_ssp_ki.py (erst nach einem eigenen Versuch ansehen).

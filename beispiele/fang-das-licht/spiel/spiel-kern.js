@@ -10,7 +10,7 @@
 
 const W = 640, H = 480;
 
-// Hier kannst du das Spiel verändern (Aufgabe in Lektion 1):
+// Hier kannst du das Spiel verändern (Aufgabe in Schritt 1):
 const CONFIG = {
   spielerBreite: 90,
   spielerTempo: 7,

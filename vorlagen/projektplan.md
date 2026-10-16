@@ -18,7 +18,7 @@ Beschreibe, was am Ende der Basis **läuft**. So konkret, dass man es vorführen
 Du hast 10 Doppellektionen. Trage ein, was bis wann **fertig und vorzeigbar** sein soll.
 Die Spalte "Wer" ist wichtig bei Teamarbeit.
 
-| # | Milestone | Wer | Lektion | Erledigt |
+| # | Milestone | Wer | Woche | Erledigt |
 |---|---|---|---|---|
 | M0 | Projektplan ausgefüllt, Repo oder Ordner angelegt | alle | 1 | ☐ |
 | M1 | Kleinste lauffähige Version (z. B. nur Steuerung, noch ohne Spiel) | | 3 | ☐ |
@@ -36,9 +36,9 @@ Was könnte schiefgehen? Was machst du dann?
 | Kamera erkennt meine Geste schlecht | Andere Geste oder mehr Trainingsbilder |
 | Board oder Teil fehlt | Anderes Board, oder Teil zuerst simulieren |
 
-## 5. Kurzes Protokoll (jede Lektion 2 Minuten)
+## 5. Kurzes Protokoll (jedes Mal 2 Minuten)
 
-| Lektion | Was haben wir geschafft? | Was ist als Nächstes dran? | Was blockiert uns? |
+| Datum | Was haben wir geschafft? | Was ist als Nächstes dran? | Was blockiert uns? |
 |---|---|---|---|
 | 1 | | | |
 

@@ -1,5 +1,5 @@
 // Schritte 3 und 4: Browser <-> micro:bit per Web Serial (115200 Baud, Textzeilen mit \n)
-// Protokoll (siehe logik.js und Lektion 2):
+// Protokoll (siehe logik.js und Etappe 2):
 //   micro:bit -> Browser:  C3 C2 C1 | ? | R <ich> <gegner> <ergebnis> | P <ich> <gegner> | X
 //   Browser -> micro:bit:  G0 G1 G2 | G-
 const urlFeld = document.getElementById('modell-url');

@@ -1,4 +1,4 @@
-# LÖSUNG zu Lektion 2, Schritt 3 (erst nach einem eigenen Versuch mit 06_ssp_ki_vorlage.py ansehen!)
+# LÖSUNG zu Etappe 2, Schritt 3 (erst nach einem eigenen Versuch mit 06_ssp_ki_vorlage.py ansehen!)
 # Schere-Stein-Papier gegen den micro:bit, dein Handzeichen kommt vom Browser
 #   Taste A oder Schütteln: Runde starten (Countdown 3-2-1 mit Ton auf dem Display)
 #   Taste B: Punkte auf 0 zurücksetzen

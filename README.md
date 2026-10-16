@@ -1,7 +1,7 @@
 # Freifach Informatik: dein Arbeitsordner
 
 Hier sind alle Dateien, mit denen du arbeitest: Vorlagen, Programme, Lösungen und Beispiele.
-Die **Anleitungen zu den Lektionen** liest du auf der Website:
+Die **Anleitungen zu den Etappen** liest du auf der Website:
 
 **[masta-nksa.github.io/schere-stein-papier](https://masta-nksa.github.io/schere-stein-papier/)**
 
@@ -9,8 +9,8 @@ Die **Anleitungen zu den Lektionen** liest du auf der Website:
 
 | Ordner | Inhalt |
 |---|---|
-| `microbit/` | micro:bit-Programme (MicroPython) zu Lektion 1 und 2, mit Vorlage `06_ssp_ki_vorlage.py` |
-| `ki/` | Browser-Seiten zu Lektion 2: `01-erkennen/` (Vorlage `runde.js`), `02-microbit/`, gemeinsame Dateien in `gemeinsam/` |
+| `microbit/` | micro:bit-Programme (MicroPython) zu Etappe 1 und 2, mit Vorlage `06_ssp_ki_vorlage.py` |
+| `ki/` | Browser-Seiten zu Etappe 2: `01-erkennen/` (Vorlage `runde.js`), `02-microbit/`, gemeinsame Dateien in `gemeinsam/` |
 | `beispiele/` | Beispielprojekte zum Weiterbauen, z. B. „Fang das Licht“ |
 | `vorlagen/` | Projektplan für die Projektphase |
 

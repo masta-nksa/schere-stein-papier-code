@@ -1,4 +1,4 @@
-# Lektion 2, Schritt 4 (Finale): Duell per Funk
+# Etappe 2, Schritt 4 (Finale): Duell per Funk
 # Zwei Personen stehen Rücken an Rücken, jede vor ihrer eigenen Laptop-Kamera.
 # Beide laden dieses Programm und stellen dieselbe GRUPPE ein (jedes Paar eine andere Zahl!).
 #   Taste A: Runde starten. Auf BEIDEN micro:bits läuft der Countdown 3-2-1.
