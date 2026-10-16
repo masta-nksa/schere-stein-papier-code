@@ -37,6 +37,7 @@ Was könnte schiefgehen? Was machst du dann?
 | Board oder Teil fehlt | Anderes Board, oder Teil zuerst simulieren |
 
 ## 5. Kurzes Protokoll (jede Lektion 2 Minuten)
+
 | Lektion | Was haben wir geschafft? | Was ist als Nächstes dran? | Was blockiert uns? |
 |---|---|---|---|
 | 1 | | | |

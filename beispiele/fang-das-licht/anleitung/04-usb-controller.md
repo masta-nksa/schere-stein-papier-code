@@ -43,6 +43,7 @@ Du brauchst: Steckbrett, 2 Taster, 1 LED, 1 Widerstand (ca. 220 Ω), Jumperkabel
 3. **Bonus:** Lass den Controller einen Summer oder eine zweite LED bei jedem gefangenen Licht auslösen. Was müsste das Spiel dem Controller dafür schicken?
 
 ## Stolpersteine
+
 | Problem | Lösung |
 |---|---|
 | Kein Port in der Liste | USB-Kabel mit Datenleitung? Treiber (CP210x oder CH340) installiert? |

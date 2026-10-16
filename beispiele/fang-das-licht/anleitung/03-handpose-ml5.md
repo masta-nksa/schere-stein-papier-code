@@ -7,6 +7,7 @@ Diesmal trainierst du **nichts**. Das Modell `ml5.handPose` kennt Hände schon u
 **21 Punkte pro Hand** (Handgelenk, Fingergelenke, Fingerspitzen). Du schreibst die Logik, was mit diesen Punkten passiert.
 
 ## Teachable Machine oder ml5 handPose?
+
 | | Teachable Machine (Schritt 2) | ml5 handPose (Schritt 3) |
 |---|---|---|
 | Training | Du trainierst mit eigenen Beispielen | Keines nötig |
@@ -35,6 +36,7 @@ Wichtig: ml5 meldet x im Koordinatenraum des Video-Elements (hier 160 px breit),
 5. **Bonus:** Messe den Abstand zwischen Daumenspitze (Punkt 4) und Zeigefingerspitze (Punkt 8). Daraus kannst du ein "Pinch" machen, z. B. als Auslöser.
 
 ## Stolpersteine
+
 | Problem | Lösung |
 |---|---|
 | Lädt lange | Beim ersten Start wird das Modell geladen. Ein paar Sekunden warten. |

@@ -40,6 +40,7 @@ Wenn das Modell Fehler macht, liegt es fast immer an den Beispielen:
 4. Schau in `steuerung.js`: Ab welcher Sicherheit (`probability`) reagiert das Spiel? Was ändert sich bei einem anderen Wert?
 
 ## Stolpersteine
+
 | Problem | Lösung |
 |---|---|
 | "Fehler: Failed to fetch" | Link kopieren, der auf `/` endet. Modell hochgeladen? |
