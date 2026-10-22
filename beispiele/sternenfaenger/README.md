@@ -8,6 +8,9 @@ mit der du in der Richtung **Spieleprogrammierung** startest.
 Du kannst das Tutorial vor dem Projekt durcharbeiten oder einfach zum Nachlesen benutzen. Zu den Schritten 1 bis 4 gibt es je
 ein lauffähiges Programm. Lies den Text, starte das Programm, lies den Code und probiere die Aufgaben aus.
 
+> **Neu bei Klassen?** Die Grundideen (Klasse, Objekt, Vererbung) zeigt ganz einfach das Beispiel
+> [OOP-Grundlagen](../oop-grundlagen/README.md) mit hüpfenden Bällen. Es passt gut vor Schritt 2.
+
 | Schritt | Thema | Programm |
 |---|---|---|
 | [1](#schritt-1-die-spielschleife) | Die Spielschleife und Delta-Time | `schritt1_fenster.py` |
